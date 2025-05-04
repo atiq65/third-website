@@ -1,0 +1,290 @@
+/* banner setion */
+.banner{
+    background-image: url('../image/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    margin-left: 50px;
+}
+.both{
+    width: 632px;
+    height: 246px;
+    padding: 177px 344px;
+    text-align: center;
+}
+.banner-sub-title{
+    font-family: merriweather;
+    font-weight: 400;
+    font-size: 32px;
+    color: #FF0000;
+}
+.banner-title{
+    font-family: merriweather;
+    font-weight: bold;
+    font-size: 72px;
+    color: #FF0000;
+}
+/* offer section */
+
+.offer-heading{
+    font-family: inter;
+    font-weight: bold;
+    font-size: 88px;
+    color: #FF0000;
+    text-align: center;
+}
+.offer-sub-title{
+    font-family: inter;
+    font-weight: 500;
+    font-size: 24px;
+    color: #FF0000;
+    text-align: center;
+    /* padding-bottom: 80px; */
+}
+.offer-title{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 48px;
+    color: #070211;
+    text-align: center;
+}
+.offer-img{
+    margin-left: 300px;
+}
+/* section 2 */
+.section2{
+    display: flex;
+    background-image: url('../image/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    align-items: center;
+    gap: 60px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.section-heading{
+    font-family: merriweather;
+    font-weight: bold;
+    font-size: 64px;
+    color: #ffffff;
+    text-align: start;
+}
+.btn-section{
+    font-family: inter;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    background: none;
+    border: none;
+}
+.section-description{
+    font-family: inter;
+    font-weight:400;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: start;
+}
+.section-column{
+    margin-left: 60px;
+}
+/* introduction section */
+.introduction{
+    background-color: #ff00002c;
+    width: 1320px;
+    height: 482px;
+    margin-left: 40px;
+    margin-top: 30px;
+
+
+
+}
+.intro{
+    text-align: center;
+    padding: 50px 5px;
+
+}
+.intro-title{
+    font-family: inter;
+    font-weight: 600;
+    font-size: 32px;
+    color: #070211;
+}
+.intro-style{
+    color: #FF0000;
+}
+.primary-btn{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #FF0000;
+    text-align: center;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 8px;
+    margin-top: -200px;
+}
+
+/* middle poster */
+
+.poster-middle{
+    display: flex;
+    width: 1320px;
+    height: 463px;
+    margin-left: 120px;
+    gap: 10%;
+    margin-top: 100px;
+    
+}
+.poster-middle-image{
+    border: 10px solid #FF0000;
+    border-radius: 50%;
+    padding: 20px;
+}
+.poster-sub-title{
+    font-family: inter;
+    font-weight:500;
+    font-size: 24px;
+    color: #FF0000;
+}
+.poster-title{
+    font-family: merriweather;
+    font-weight: bold;
+    font-size: 48px;
+}
+.poster-description{
+    font-family: inter;
+    font-weight:400;
+    font-size: 20px;
+}
+.poster-two-title{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 48px;
+    color: #FF0000;
+}
+.poster-two-description{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 20px;
+    color: #070211;
+}
+.poster-icon--image{
+    width: 140px;
+    height: 140px;
+}
+/* holiday offer section */
+
+.holiday{
+    width: 1320px;
+    height: 986px;
+    margin-left: 50px;
+}
+.holiday-sub-title{
+    font-family: inter;
+    font-weight:500;
+    font-size: 24px;
+    color: #070211;
+
+}
+.holiday-title{
+    font-family: merriweather;
+    font-weight: bold;
+    font-size: 72px;
+    color: #070211;
+}
+.holiday-offer-heading{
+    text-align: center;
+}
+.holiday-font-image{
+
+}
+.Group-img{
+    position: absolute;
+    padding-left: 500px;
+
+}
+.background-color-pannel{
+    width: 1320px;
+    height: 229px;
+    background-image: url('../image/Rectangle\ 2.png');
+}
+.offer-poster-image{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 150px;
+}
+/* portfolio section */
+
+.portfolio{
+    margin-left: 60px;
+    margin-top: 40px;
+    width: 1320px;
+    height: 1163px;
+}
+
+.portfolio-sub-title{
+    font-family: inter;
+    font-weight:500;
+    font-size: 24px;
+    color: #FF0000;
+}
+.portfolio-title{
+    font-family: merriweather;
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+}
+.portfolio-description{
+    font-family: inter;
+    font-weight:400;
+    font-size: 20px;
+    color: #07021193;
+}
+/* icon section */
+
+.icon-box{
+    text-align: center;
+}
+
+.icon-title{
+    font-family: merriweather;
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+}
+.icon-decription{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 20px;
+    color: #070211a8;
+}
+/* footer section */
+
+footer{
+    width: 1600px;
+    height: 609px;
+    background-color: #070211;
+}
+.footer-first-sec{
+    display: flex;
+    gap: 300px;
+    
+}
+.footer-thirdd-sec{
+    display: flex;
+    gap: 670px;
+    padding: 80px;
+}
+.footer-title{
+    font-family: inter;
+    font-weight: 500;
+    font-size: 24px;
+    color: #ffffff;
+}
+.footer-section{
+    padding: 80px;
+}
+.social-icon{
+    text-align: center;
+    padding-top: 30px;
+}
